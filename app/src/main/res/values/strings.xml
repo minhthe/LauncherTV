@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GridView Example</string>
+
+    <string-array name="image_ids">
+        <item>@drawable/ic_tv_black</item>
+        <item>@drawable/ic_settings_input_svideo_black</item>
+        <item>@drawable/ic_library_music_black</item>
+        <item>@drawable/ic_video_library</item>
+    </string-array>
+
+</resources>
